@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 100.0, 1062.0, 795.0 ],
+		"rect" : [ 726.0, 106.0, 1062.0, 795.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -377,7 +377,7 @@
 					"outlettype" : [ "list", "float", "float", "float", "float", "list", "int" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 612.749993920326233, 633.913340346813243, 360.0, 155.0 ],
-					"setfilter" : [ 0, 1, 1, 0, 0, 5537.29833984375, 1.406213998794556, 0.70710676908493, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
+					"setfilter" : [ 0, 1, 1, 0, 0, 7539.0, 1.404000520706177, 0.70710676908493, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
 				}
 
 			}
@@ -482,7 +482,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 957.677798810005243, 356.116591470241588, 50.0, 22.0 ],
-					"text" : "\"1.71\""
+					"text" : "\"0.00\""
 				}
 
 			}
@@ -1657,7 +1657,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-53", 0 ],
+					"destination" : [ "obj-53", 1 ],
 					"source" : [ "obj-58", 0 ]
 				}
 
@@ -1957,14 +1957,7 @@
 			"inherited_shortname" : 1
 		}
 ,
-		"dependency_cache" : [ 			{
-				"name" : "スクリーンショット 2023-12-31 11.28.31.png",
-				"bootpath" : "/private/var/folders/d0/lmc_z2r56935fydv88y85h2c0000gn/T/TemporaryItems/NSIRD_screencaptureui_ruNPUE",
-				"patcherrelativepath" : "../../../../private/var/folders/d0/lmc_z2r56935fydv88y85h2c0000gn/T/TemporaryItems/NSIRD_screencaptureui_ruNPUE",
-				"type" : "PNG",
-				"implicit" : 1
-			}
- ],
+		"dependency_cache" : [  ],
 		"autosave" : 0
 	}
 
